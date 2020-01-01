@@ -1,4 +1,4 @@
-# CRUD_Application
+# Student-Teacher_Application
 CRUD application using Thymeleaf and H2 Database
 
 Application to practice CRUD operations on a student and teacher database.
