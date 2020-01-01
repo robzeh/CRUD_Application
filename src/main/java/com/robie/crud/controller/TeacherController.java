@@ -24,7 +24,7 @@ public class TeacherController {
         this.teacherRepository = teacherRepository;
     }
 
-    @GetMapping("singup")
+    @GetMapping("signup")
     public String showSignUpForm(Teacher teacher) {
         return "add-teacher";
     }
